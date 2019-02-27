@@ -14,8 +14,12 @@
   Then alert your name using dot notation.
 */
 
-//Code here
+var me = {
+  name: Caleb
+  age: 24
+}
 
+alert(me.name)
 
 
 ////////// PROBLEM 2 //////////
