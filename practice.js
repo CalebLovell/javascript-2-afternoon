@@ -15,7 +15,7 @@
 */
 
 var me = {
-  name: Caleb
+  name: 'Caleb',
   age: 24
 }
 
